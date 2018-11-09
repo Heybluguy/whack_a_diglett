@@ -12,7 +12,7 @@ To launch locally, run the following commands in your terminal:
 
 ```
 git clone https://github.com/Heybluguy/whack_a_diglett.git
-cd whack_a_diglett/whack_a_diglett
+cd whack_a_diglett
 gem install gosu
 ruby whack_a_diglett.rb
 ```
